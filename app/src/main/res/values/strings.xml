@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Laboratorium 2</string>
+    <string name="Cm">Centimeters</string>
+    <string name="Km">Kilometres</string>
+    <string name="Mi">Miles</string>
+    <string name="Li">Light years</string>
+</resources>
